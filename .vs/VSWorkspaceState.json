@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LSM_project_4",
+    "\\LSM_project_4\\Pages",
+    "\\LSM_project_4\\Pages\\Shared",
+    "\\LSM_project_4\\wwwroot\\css",
+    "\\LSM_project_4\\wwwroot\\lib\\bootstrap",
+    "\\LSM_project_4\\wwwroot\\lib\\bootstrap\\dist",
+    "\\LSM_project_4\\wwwroot\\lib\\jquery-validation-unobtrusive",
+    "\\LSM_project_4\\wwwroot\\lib\\jquery-validation\\dist",
+    "\\LSM_project_4\\wwwroot\\lib\\jquery\\dist"
+  ],
+  "SelectedNode": "\\LSM_project_4\\Pages\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
